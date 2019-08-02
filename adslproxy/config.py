@@ -15,7 +15,7 @@ PROXY_PORT = 8888
 CLIENT_NAME = 'adsl1'
 
 # 拨号网卡
-ADSL_IFNAME = 'ppp0'
+ADSL_IFNAME = '172.24.56.143'
 
 # Redis数据库IP
 REDIS_HOST = 'localhost'
